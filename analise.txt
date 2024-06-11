@@ -1,0 +1,11 @@
+O que o projeto precisa fazer?
+- Listar os horários disponíveis
+
+Qual a estrutura de dados?
+
+
+Quais os endpoints?
+(METODO) /url (PARAMETROS)
+- (GET) /api/horariosclinica/123 (id clinica)
+
+
